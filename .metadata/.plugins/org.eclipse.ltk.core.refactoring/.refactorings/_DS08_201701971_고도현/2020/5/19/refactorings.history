@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;_DS08_201701971_고도현.ArrayLIst.java&apos; to &apos;ArrayList.java&apos;&#x0D;&#x0A;- Original project: &apos;_DS08_201701971_고도현&apos;&#x0D;&#x0A;- Original element: &apos;_DS08_201701971_고도현.ArrayLIst.java&apos;&#x0D;&#x0A;- Renamed element: &apos;_DS08_201701971_고도현.ArrayList.java&apos;" description="Rename compilation unit &apos;ArrayLIst.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;_DS08_201701971_고도현{ArrayLIst.java" name="ArrayList.java" references="false" stamp="1588504244451" version="1.0"/>
+</session>

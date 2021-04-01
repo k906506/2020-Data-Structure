@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;_DS10_01_2017017971_고도현&apos; to &apos;_DS10_01_201701971_고도현&apos;&#x0D;&#x0A;- Original element: &apos;_DS10_01_2017017971_고도현&apos;&#x0D;&#x0A;- Renamed element: &apos;_DS10_01_2017017971_고도현&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;_DS10_01_2017017971_고도현&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=_DS10_01_2017017971_고도현" name="_DS10_01_201701971_고도현" references="true" stamp="1589874790781" version="1.0"/>
+</session>

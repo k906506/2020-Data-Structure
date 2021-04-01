@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;마방진.마방진예제&apos; to &apos;AppController&apos;&#x0D;&#x0A;- Original project: &apos;마방진&apos;&#x0D;&#x0A;- Original element: &apos;마방진.마방진예제&apos;&#x0D;&#x0A;- Renamed element: &apos;마방진.AppController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;마방진예제&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;마방진{마방진예제.java[마방진예제" matchStrategy="1" name="AppController" qualified="false" references="true" similarDeclarations="false" stamp="1584515896366" textual="false" version="1.0"/>
+</session>

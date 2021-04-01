@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;_DS13_201701971_고도현.Dicionary&apos; to &apos;Dictionary&apos;&#x0D;&#x0A;- Original project: &apos;_DS13_201701971_고도현&apos;&#x0D;&#x0A;- Original element: &apos;_DS13_201701971_고도현.Dicionary&apos;&#x0D;&#x0A;- Renamed element: &apos;_DS13_201701971_고도현.Dictionary&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Dicionary&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;_DS13_201701971_고도현{Dicionary.java[Dicionary" matchStrategy="1" name="Dictionary" qualified="false" references="true" similarDeclarations="false" stamp="1591162262756" textual="false" version="1.0"/>
+</session>

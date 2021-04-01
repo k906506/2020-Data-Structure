@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;_DS10_01_2017017971_고도현&apos; to &apos;_DS10_01_201701971_고도현&apos;&#x0D;&#x0A;- Original project: &apos;_DS10_01_201701971_고도현&apos;&#x0D;&#x0A;- Original element: &apos;_DS10_01_201701971_고도현/src/_DS10_01_2017017971_고도현&apos;&#x0D;&#x0A;- Renamed element: &apos;_DS10_01_201701971_고도현/src/_DS10_01_201701971_고도현&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;_DS10_01_2017017971_고도현&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;_DS10_01_2017017971_고도현" name="_DS10_01_201701971_고도현" qualified="false" references="true" stamp="1589874801507" textual="false" version="1.0"/>
+</session>

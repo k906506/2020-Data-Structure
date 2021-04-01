@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;_DS11_201701971_고도현.Main&apos; to &apos;_DS11_201701971_고도현&apos;&#x0D;&#x0A;- Original project: &apos;_DS11_201701971_고도현&apos;&#x0D;&#x0A;- Original element: &apos;_DS11_201701971_고도현.Main&apos;&#x0D;&#x0A;- Renamed element: &apos;_DS11_201701971_고도현._DS11_201701971_고도현&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Main&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;_DS11_201701971_고도현{Main.java[Main" matchStrategy="1" name="_DS11_201701971_고도현" qualified="false" references="true" similarDeclarations="false" stamp="1590146629744" textual="false" version="1.0"/>
+</session>
